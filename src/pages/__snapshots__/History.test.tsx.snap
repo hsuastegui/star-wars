@@ -1,0 +1,99 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`History renders 1`] = `
+<styled.div>
+  <Styled(Link)
+    to="/"
+  >
+    Play
+  </Styled(Link)>
+  <styled.div>
+    <styled.div
+      winner={false}
+    >
+      <span>
+        R2-D2
+      </span>
+      <span>
+        96
+      </span>
+    </styled.div>
+    <styled.div
+      winner={true}
+    >
+      <span>
+        Bail Prestor Organa
+      </span>
+      <span>
+        191
+      </span>
+    </styled.div>
+  </styled.div>
+  <styled.div>
+    <styled.div
+      winner={false}
+    >
+      <span>
+        J-type diplomatic barge
+      </span>
+      <span>
+        0.7
+      </span>
+    </styled.div>
+    <styled.div
+      winner={true}
+    >
+      <span>
+        Naboo fighter
+      </span>
+      <span>
+        1
+      </span>
+    </styled.div>
+  </styled.div>
+  <styled.div>
+    <styled.div
+      winner={false}
+    >
+      <span>
+        TIE Advanced x1
+      </span>
+      <span>
+        1
+      </span>
+    </styled.div>
+    <styled.div
+      winner={true}
+    >
+      <span>
+        Star Destroyer
+      </span>
+      <span>
+        2
+      </span>
+    </styled.div>
+  </styled.div>
+  <styled.div>
+    <styled.div
+      winner={true}
+    >
+      <span>
+        Bail Prestor Organa
+      </span>
+      <span>
+        191
+      </span>
+    </styled.div>
+    <styled.div
+      winner={false}
+    >
+      <span>
+        Adi Gallia
+      </span>
+      <span>
+        184
+      </span>
+    </styled.div>
+  </styled.div>
+</styled.div>
+`;
